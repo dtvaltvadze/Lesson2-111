@@ -56,17 +56,17 @@
 
 //lesson 2 - ex.4
 
-function getMax(numbers) {
-    let maxValue = 0;
+// function getMax(numbers) {
+//     let maxValue = 0;
    
-    for (let index = 0; index < numbers.length; index++) {
-        const x = numbers[index];
-        if (x > maxValue){
-            maxValue = x;
-        }
+//     for (let index = 0; index < numbers.length; index++) {
+//         const x = numbers[index];
+//         if (x > maxValue){
+//             maxValue = x;
+//         }
         
-    }
-    return maxValue;
-}
+//     }
+//     return maxValue;
+// }
 
-console.log(getMax([3, 102, 54, 36, 120, 8]));
+// console.log(getMax([3, 102, 54, 36, 120, 8]));
